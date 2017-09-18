@@ -1,31 +1,25 @@
-h1, h3
-{
+h1, h3{
     text-align:center;
 }
 
-h3
-{
+h3{
     background-color:black;
     color:white;
     font-size:0.9em;
     margin-bottom:0px;
 }
 
-.news p
-{
+.news p{
     background-color:#CCCCCC;
     margin-top:0px;
 }
 
-.news
-{
+.news{
     margin:auto;
     width:70%;
 }
 
-
-a
-{
+a{
     color: blue;
     text-decoration: none;
 }
